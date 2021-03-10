@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>back.png</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>Page3.qml</file>
+        <file>Page3Form.ui.qml</file>
+        <file>forecast/no internet.jpg</file>
+        <file>forecast/broken clouds.png</file>
+        <file>forecast/clear.png</file>
+        <file>forecast/error.jpg</file>
+        <file>forecast/few clouds.png</file>
+        <file>forecast/mist.png</file>
+        <file>forecast/rain.png</file>
+        <file>forecast/scattered clouds.png</file>
+        <file>forecast/shower rain.png</file>
+        <file>forecast/snow.png</file>
+        <file>forecast/thunderstorm.png</file>
+        <file>Settings.qml</file>
+        <file>HomePage.qml</file>
+        <file>delete.png</file>
+        <file>close-icon.png</file>
+        <file>gear.png</file>
+    </qresource>
+</RCC>
